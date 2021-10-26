@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\EpicFight\EpicFight\bin\Debug\netcoreapp3.1\EpicFight.exe
+C:\Users\opilane\source\repos\EpicFight\EpicFight\bin\Debug\netcoreapp3.1\EpicFight.deps.json
+C:\Users\opilane\source\repos\EpicFight\EpicFight\bin\Debug\netcoreapp3.1\EpicFight.runtimeconfig.json
+C:\Users\opilane\source\repos\EpicFight\EpicFight\bin\Debug\netcoreapp3.1\EpicFight.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\EpicFight\EpicFight\bin\Debug\netcoreapp3.1\EpicFight.dll
+C:\Users\opilane\source\repos\EpicFight\EpicFight\bin\Debug\netcoreapp3.1\EpicFight.pdb
+C:\Users\opilane\source\repos\EpicFight\EpicFight\obj\Debug\netcoreapp3.1\EpicFight.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\EpicFight\EpicFight\obj\Debug\netcoreapp3.1\EpicFight.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\EpicFight\EpicFight\obj\Debug\netcoreapp3.1\EpicFight.AssemblyInfo.cs
+C:\Users\opilane\source\repos\EpicFight\EpicFight\obj\Debug\netcoreapp3.1\EpicFight.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\EpicFight\EpicFight\obj\Debug\netcoreapp3.1\EpicFight.dll
+C:\Users\opilane\source\repos\EpicFight\EpicFight\obj\Debug\netcoreapp3.1\EpicFight.pdb
+C:\Users\opilane\source\repos\EpicFight\EpicFight\obj\Debug\netcoreapp3.1\EpicFight.genruntimeconfig.cache
